@@ -1,4 +1,4 @@
-# Hey, Soy Erick👋
+# I'm Erick👋
 
 **TheDahakaRD/TheDahakaRD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
